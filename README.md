@@ -25,7 +25,7 @@
 
  ⚡ Fun fact **I am a twin!**
 
- 📄 Know about my experiences: <a href="https://www.linkedin.com/in/jade-soto-89a0a6185/overlay/1635516375970/single-media-viewer/?profileId=ACoAACueJ3YBQl8kFguK0tJ52nfVLMMoG_ExZBs">Download Resume</a>
+ 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1-HlErQFh9d0AW1WHGAmbeR3MG9vJOZFE/view?usp=sharing">View</a>
   </body>
   
 <h3 align="center">Connect with me:</h3>
