@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+  <img src="![image](https://user-images.githubusercontent.com/65683884/217968821-5bcbcdfe-dba1-4869-ab15-2ffa85ca4607.png)
+" width="100"/>
+</div>
 <!--
 **jakiso/jakiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
